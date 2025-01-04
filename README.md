@@ -49,8 +49,6 @@ Salom! Men **Asilbek Abdihamidov**, backend dasturlash bo'yicha tajribaga ega **
 
 ---
 
-## 🖼️ Texnologiya Iconlari  
-Oxirida barcha ikonlar:  
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40"/>  
