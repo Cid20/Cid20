@@ -1,18 +1,37 @@
 # My Java Project
 
-![Logo](https://your-logo-link.com)
+![Main Logo](https://cdn-icons-png.flaticon.com/512/226/226777.png)  
+*[Java icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/java)*
 
 ## About Me
 
 Hi, I'm **Asilbek Abdihamidov**, a passionate Java developer who specializes in building scalable and secure web applications. I have a deep understanding of modern technologies such as **Spring Boot**, **Spring MVC**, **Spring Security**, **Hibernate**, and **JPA**. This project demonstrates my skills and provides a robust foundation for building enterprise-level applications.
 
+---
+
 ## 🚀 Technologies Used
 
-- **Java**: The backbone of the application, providing stability and scalability.
-- **Spring Boot**: A framework that simplifies the setup of a Spring application, allowing for rapid development of production-ready applications.
-- **Spring MVC**: A model-view-controller framework that helps create clean and maintainable web applications.
-- **Spring Security**: Provides authentication and authorization features to ensure the safety of your application.
-- **Hibernate & JPA**: ORM (Object Relational Mapping) tools for database interaction, allowing easy mapping between Java objects and database tables.
+### 1. Java  
+![Java Icon](https://cdn-icons-png.flaticon.com/512/226/226777.png)  
+The backbone of the application, providing stability and scalability.
+
+### 2. Spring Boot  
+![Spring Boot Icon](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)  
+A framework that simplifies the setup of a Spring application, allowing for rapid development of production-ready applications.
+
+### 3. Spring MVC  
+![Spring MVC Icon](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)  
+A model-view-controller framework that helps create clean and maintainable web applications.
+
+### 4. Spring Security  
+![Spring Security Icon](https://cdn-icons-png.flaticon.com/512/3039/3039436.png)  
+Provides authentication and authorization features to ensure the safety of your application.
+
+### 5. Hibernate & JPA  
+![Hibernate Icon](https://cdn-icons-png.flaticon.com/512/2111/2111320.png)  
+ORM (Object Relational Mapping) tools for database interaction, allowing easy mapping between Java objects and database tables.
+
+---
 
 ## 🌟 Features
 
@@ -21,6 +40,8 @@ Hi, I'm **Asilbek Abdihamidov**, a passionate Java developer who specializes in 
 - **REST API**: Exposes RESTful endpoints for seamless communication between the front-end and back-end.
 - **Database Integration**: Seamless interaction with the database using Hibernate and JPA to perform CRUD operations with ease.
 - **Scalability and Performance**: Built to handle a growing number of users and requests.
+
+---
 
 ## 🛠️ Installation
 
@@ -44,9 +65,13 @@ Follow these simple steps to get the project up and running:
 
 4. **Open your browser and visit** `http://localhost:8080`.
 
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
 
 ## 🤝 Support
 
