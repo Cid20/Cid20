@@ -1,51 +1,59 @@
-# 🌟 My Java Development Journey  
+# 👨‍💻 Asilbek Abdihamidov  
 
-Welcome! I'm **Asilbek Abdihamidov**, a passionate **Java Developer** specializing in creating secure and scalable web applications using the **Spring Framework** and modern development tools.  
-
----
-
-## ✨ About Me  
-- 🚀 Skilled in **Java**, **Spring Boot**, **Spring MVC**, **Spring Security**, **Hibernate**, and **JPA**.  
-- 🌱 Continuously learning and evolving in the field of backend development.  
-- 💡 Focused on clean, efficient, and maintainable code.  
-- 🛠️ Enthusiastic about solving real-world problems through technology.  
+## 🛠️ Nima qila olaman?  
+Men backend dasturlash bo'yicha tajribaga ega bo'lgan **Java Developer**man. Quyidagi sohalarda ishlash tajribam bor:  
+- **Java** tilida kuchli mahorat.  
+- **Spring Framework** asosidagi murakkab tizimlarni ishlab chiqish.  
+- **Database boshqaruvi**: JPA, Hibernate, va JDBC orqali ma'lumotlar bilan ishlash.  
+- **HTML/CSS** orqali front-endni asosiy darajada boshqarish.  
+- **Docker va Redis**ni tushunish va amaliyotga tadbiq qilish.
 
 ---
 
-## 🔧 Tools and Technologies  
+## 🏆 Mening texnologiyalardagi ustunliklarim  
 
-<div align="center">
-  
-| **Technology**       | **Description**                                                                                     | **Icon**                                           |
-|-----------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| **Java**             | The core of my development process, known for its robustness and platform independence.             | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> |
-| **Spring Boot**      | Simplifies application development with powerful pre-built configurations.                          | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Spring Boot" width="40"/> |
-| **Spring MVC**       | Helps in creating dynamic, flexible, and secure web applications.                                   | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Spring MVC" width="40"/> |
-| **Spring Security**  | Provides robust security mechanisms for authentication and authorization.                           | <img src="https://cdn-icons-png.flaticon.com/512/3039/3039436.png" alt="Spring Security" width="40"/> |
-| **Hibernate & JPA**  | Simplifies data handling and interaction with relational databases.                                  | <img src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png" alt="Hibernate" width="40"/> |
-
-</div>
+### **Java**  
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>  
+- Ob'ektga yo'naltirilgan dasturlashni chuqur bilaman.  
+- Ma'lumotlar tuzilmalari va algoritmlar ustida ishlash qobiliyatiga ega.  
+- Yirik loyihalarda ishonchli backend tizimlarini qurish tajribasi.  
 
 ---
 
-## 🌟 Key Features  
-
-- **Secure Authentication & Authorization**  
-  Implements secure login mechanisms using **Spring Security**.  
-
-- **RESTful APIs**  
-  Provides seamless communication between systems with **Spring Boot**.  
-
-- **Database Management**  
-  Streamlined data operations using **Hibernate** and **JPA**.  
-
-- **Scalable Architecture**  
-  Ensures high performance and reliability, even with increasing traffic.
+## 🌟 Spring Framework  
+<img src="your_spring_icon_link_here" alt="Spring Framework" width="40"/>  
+Quyidagi Spring modullarida ishlashni yaxshi bilaman:  
+- **Spring MVC**: Dinamik va moslashuvchan veb-ilovalarni ishlab chiqish.  
+- **Spring Security**: Tizimning xavfsizligini ta'minlash.  
+- **Spring JPA**: Ma'lumotlar bazasi bilan sodda va samarali ishlash.  
+- **Spring JDBC**: To'g'ridan-to'g'ri SQL so'rovlarini boshqarish.  
+- **Spring Test**: Loyihalarni avtomatlashtirilgan testlar yordamida tekshirish.  
+- **Hibernate**: Ob'ektlar va ma'lumotlar bazasi o'rtasidagi integratsiyani boshqarish.
 
 ---
 
-## 🚀 Getting Started  
+## 🎨 HTML va CSS  
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="40"/>  
 
-1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/yourusername/your-project-name.git
+HTML va CSS yordamida:  
+- Saytning asosiy tuzilmasini yaratish.  
+- Foydalanuvchi interfeysini boshqarish.  
+- Minimalistik va zamonaviy dizaynlarni amalga oshirish.  
+
+---
+
+## 🐳 Docker va Redis  
+<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Redis" width="40"/>  
+
+- **Docker**: Loyihalarni konteynerlashda asosiy amaliyotlarni amalga oshirishni bilaman.  
+- **Redis**: Tezkor ma'lumotlar keshini tashkil qilish tajribasiga egaman.  
+
+---
+
+## 🎬 Motivatsion yakun!  
+
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+*"Haqiqiy dasturchi — bu muammolarni imkoniyatlarga aylantira oladigan insondir!"* 🚀  
+**Koding davomida kamchiliksiz rivojlanishga intiling! 💪**
