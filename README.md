@@ -8,7 +8,7 @@ Salom! Men **Asilbek Abdihamidov**, backend dasturlash bo'yicha tajribaga ega **
 
 ---
 
-## 🏆 Texnologik ko'nikmalar  
+## 🏆 Texnologik ko'nikmalar 
 
 ### **Java**  
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>  
