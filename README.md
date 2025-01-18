@@ -11,7 +11,7 @@ Salom! Men **Asilbek Abdihamidov**, backend dasturlash bo'yicha tajribaga ega **
 ## 🏆 Texnologik ko'nikmalar 
 
 ### **Java**  
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>  
+![Java](https://cdn-icons-png.flaticon.com/512/226/226777.png)  
 - Mustahkam OOP tajribasi.  
 - Katta miqyosdagi backend tizimlarni ishlab chiqish.  
 - Ma'lumotlar tuzilmalari va algoritmlarni qo'llash.  
